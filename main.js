@@ -173,7 +173,7 @@ let welc = `
 –––┅┅ *ᴅᴇsᴄʀɪᴘᴛɪᴏɴ* ┅┅––––––
 @desc
 
-Script My Bot : https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg`
+gc  Bot : https://chat.whatsapp.com/JVFN0SYnXLg23qjvickkdM`
 let lef = 
 `❖━━━[ *나중에 봐요* ]━━━❖
 𝚂𝚊𝚢𝚘𝚗𝚊𝚛𝚊𝚊 *@user* 👋😃`
